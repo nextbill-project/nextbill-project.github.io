@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+**Das OpenSource-Projekt NextBill hilft Ihnen bei der Kostenaufteilung mit dem Partner, WG-Mitbewohnern und Freunden.**
 
-You can use the [editor on GitHub](https://github.com/nextbill-project/nextbill-project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://raw.githubusercontent.com/nextbill-project/master/assets/top_devices.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Unterstützt durch intelligente Funktionen, durchdachtem Workflow und einer Android-App, wird die Kostenaufstellung zum Kinderspiel. Und das alles kostenlos und auf Ihrem eigenen Server, NAS oder Desktop-System. Nachfolgend finden Sie alle wichtigen Informationen zum Projekt. Gehen Sie bitte bei Fragen oder Anregungen zunächst den unter [Fragen & Hilfe](https://nextbill-project.github.io/help) beschriebenen Guideline durch.**
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Features ##
 
-```markdown
-Syntax highlighted code block
+**Sichere Datenspeicherung** Speichern Sie Ihre Rechnungen, Quittungsbilder und Kostenabrechnungen sicher auf Ihrem Server, NAS oder Desktop-Computer
 
-# Header 1
-## Header 2
-### Header 3
+**Jederzeit Datenzugriff** Zugriff von überall und jederzeit über Android App (auch offline) oder einen Browser
 
-- Bulleted
-- List
+**Intelligente Eingabehilfen** Automatische Vervollständigung sowie E-Mail-Empfang, Bildupload und Spracheingabe unterstützen Sie bei der Erfassung der Daten
 
-1. Numbered
-2. List
+**Rechnungen aufteilen** Teilen Sie Rechnungen und erstellen Sie Abrechnungen für den Partner, Mitbewohner oder Freund
 
-**Bold** and _Italic_ and `Code` text
+**Abrechnungs-Workflow** Behalten Sie immer den Überblick über noch nicht gezahlte Rechnungen und den Workflow der Kostenabrechnungen
 
-[Link](url) and ![Image](src)
-```
+**Kostengrenzen definieren** Erstellen Sie Budgets und werden Sie automatisch gewarnt, wenn diese überschritten werden
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Datenanalyse** Analysieren Sie Ihre Daten anhand von Diagrammen und Schlüsselwerten oder sehen Sie sich Prognosen an
 
-### Jekyll Themes
+**Benutzerverwaltung** Verwalten Sie die Benutzer und geben Sie ihnen ganz nach Bedarf unterschiedliche Rechte
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nextbill-project/nextbill-project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Automatische Quittungs-Erfassung** Rechnungen können automatisch per Bild-, Sprach- und E-Mail-Erkennung ausgefüllt werden (kostenpflichtiger externer Service, siehe FAQ)
 
-### Support or Contact
+## Umfrage
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nehmen Sie gerne an der Umfrage teil, damit NextBill bei der Entwicklung noch besser auf die konkreten Wünsche und Anforderungen der Nutzer eingehen kann.
+
+**[Zur Umfrage](https://forms.gle/X5dpFNnH1Rv8VWLU8){:target="_blank"}**
