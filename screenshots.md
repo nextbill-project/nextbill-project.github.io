@@ -31,35 +31,17 @@
 
 ## Android App
 
-### Liste der Rechnungen
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/invoices_list.png)
+### Rechnungen & editieren
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed1.png)
 
-### Rechnungs-Details
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/details.png)
+### Abrechnungen & Benachrichtigungen
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed2.png)
 
-### Menü
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/menu.png)
+### Kostenverteilungen & editieren
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed3.png)
 
-### Benachrichtigungen
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/messages.png)
+### Auswertungen
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed4.png)
 
-### Suchfilter
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/search_filter.png)
-
-### Liste der Kostenverteilungen
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/cost_distribution_items_list.png)
-
-### Bearbeiten der Kostenverteilung
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/cost_distribution_item_edit.png)
-
-### Abrechnungsliste
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/cost_distributions.png)
-
-### Liste der Budgets
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/budgets_list.png)
-
-### Auswertung über Kuchendiagramm
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/analysis.png)
-
-### Auswertung über Balkendiagramm
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/analysis_lines.png)
+### Menü & Suchfilter
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed5.png)
