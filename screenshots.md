@@ -1,5 +1,22 @@
 # Screenshots
 
+## Android App
+
+### Rechnungen & editieren
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed1.png)
+
+### Abrechnungen & Benachrichtigungen
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed2.png)
+
+### Kostenverteilungen & editieren
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed3.png)
+
+### Auswertungen
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed4.png)
+
+### Menü & Suchfilter
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed5.png)
+
 ## WebApp
 
 ### Liste der Rechnungen
@@ -28,20 +45,3 @@
 
 ### Konfiguration
 ![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/webapp/settings.png)
-
-## Android App
-
-### Rechnungen & editieren
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed1.png)
-
-### Abrechnungen & Benachrichtigungen
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed2.png)
-
-### Kostenverteilungen & editieren
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed3.png)
-
-### Auswertungen
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed4.png)
-
-### Menü & Suchfilter
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed5.png)
