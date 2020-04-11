@@ -3,7 +3,7 @@
 ## Android App
 
 ### Rechnungen & editieren
-![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed1.png)
+![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed.png)
 
 ### Abrechnungen & Benachrichtigungen
 ![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/screenshots/android/mixed/screenshots_mixed2.png)
