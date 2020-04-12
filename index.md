@@ -12,6 +12,8 @@
 
 Die NextBill Server-Version wurde veröffentlicht! 🎉
 
+---
+
 ## Features ##
 
 **Sichere Datenspeicherung** Speichern Sie Ihre Rechnungen, Quittungsbilder und Kostenabrechnungen sicher auf Ihrem Server, NAS oder Desktop-Computer
