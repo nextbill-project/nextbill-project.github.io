@@ -17,7 +17,7 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-Alle Beiträge zu den Anwendungs-Repositories des NextBill Projects (https://github.com/nextbill-project/server und https://github.com/nextbill-project/android) sind unter der AGPLv3 lizenziert und stehen somit unter Copyleft. Die Lizenz kann unter [https://nextbill-project.github.io/license](https://nextbill-project.github.io/license){:target="_blank"} eingesehen werden.
+Alle Beiträge zu den Anwendungs-Repositories des NextBill Projects (https://github.com/nextbill-project/server und https://github.com/nextbill-project/android) sind unter der AGPLv3 lizenziert und stehen somit unter Copyleft. Die Lizenz kann [hier](https://nextbill-project.github.io/license-site) eingesehen werden.
 
 
 ### Haftung für Inhalte
