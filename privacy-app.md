@@ -1,6 +1,6 @@
 # Datenschutzerklärung NextBill Project Android App
 
-Im Rahmen der Nutzung dieser App werden personenbezogene Daten von Ihnen durch uns als den für die Datenverarbeitung Verantwortlichen verarbeitet und für die Dauer gespeichert, die zur Erfüllung der festgelegten Zwecke und gesetzlicher Verpflichtungen erforderlich ist.
+Im Rahmen der Nutzung der NextBill Project App werden personenbezogene Daten von Ihnen durch uns als den für die Datenverarbeitung Verantwortlichen verarbeitet und für die Dauer gespeichert, die zur Erfüllung der festgelegten Zwecke und gesetzlicher Verpflichtungen erforderlich ist.
 
 Im Folgenden informieren wir Sie darüber, um welche Daten es sich dabei handelt, auf welche Weise sie verarbeitet werden und welche Rechte Ihnen diesbezüglich zustehen.
 

@@ -1,5 +1,10 @@
 # Screenshots
 
+[Bilder von der Android App](#android-app)
+
+[Bilder von der Web-Anwendung / Server](#webapp)
+
+
 ## Android App
 
 ### Rechnungen & editieren
