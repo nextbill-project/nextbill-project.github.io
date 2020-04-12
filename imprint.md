@@ -2,14 +2,11 @@
 
 Angaben gemäß § 5 TMG
 
-Michael Roedel
-Fleher Str. 115
-40223 Düsseldorf
+Michael Roedel, Fleher Str. 115, 40223 Düsseldorf
 
 ### Kontakt
 
-Telefon: 0211-15825306
-E-Mail: kontakt@nextbill.de
+Telefon: 0211-15825306, E-Mail: kontakt@nextbill.de
 
 ### Urheberrecht
 
