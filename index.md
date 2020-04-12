@@ -2,9 +2,15 @@
 
 ![](https://raw.githubusercontent.com/nextbill-project/nextbill-project.github.io/master/assets/top_devices.png)
 
-**Unterstützt durch intelligente Funktionen, durchdachtem Workflow und einer Android-App, wird die Kostenaufstellung zum Kinderspiel. Und das alles kostenlos und auf Ihrem eigenen Server, NAS oder Desktop-System. Nachfolgend finden Sie alle wichtigen Informationen zum Projekt. Gehen Sie bitte bei Fragen oder Anregungen zunächst den unter [Fragen & Hilfe](https://nextbill-project.github.io/help) beschriebenen Guideline durch.**
+**NextBill kann auf Ihrem NAS, Server oder Desktop-System installiert werden und ist über jeden Browser erreichbar. Und auch unterwegs wird das Kostenaufteilen durch eine intelligente Android App zum Kinderspiel.**
 
 ---
+
+## News ##
+
+**12. April 2020** 
+
+Die NextBill Server-Version wurde veröffentlicht! 🎉
 
 ## Features ##
 
