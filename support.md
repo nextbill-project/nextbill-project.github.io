@@ -1,6 +1,10 @@
 ##  Mitarbeiten
 
-Sie möchten einen Beitrag leisten? Das ist großartig! Bitte folgen Sie dem nachstehenden Leitfaden und ehe Sie sich Versehen finden Sie Ihren Beitrag im nächsten Release!
+Sie möchten einen Beitrag leisten? Das ist großartig! 
+
+Sie können z.B. ein Feature programmieren, Tutorials schreiben oder Tester werden. Egal was, jede Tätigkeit zählt und davon lebt jedes OpenSource-Projekt!
+
+Bitte folgen Sie generell dem nachstehenden Leitfaden und ehe Sie sich Versehen finden Sie Ihren Beitrag im nächsten Release!
 
 1. Teilen Sie uns Ihr Anliegen mit, indem Sie ein Issue schreiben oder kommentieren oder eine Mail an kontakt@nextbill.de senden.
 2. Erstellen Sie einen Branch und implementieren Sie das Issue Ihrer Wahl.

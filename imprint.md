@@ -2,9 +2,7 @@
 
 Angaben gemäß § 5 TMG
 
-Michael Roedel
-Fleher Str. 115
-40223 Düsseldorf
+Michael Roedel, Fleher Str. 115, 40223 Düsseldorf
 
 ### Kontakt
 
