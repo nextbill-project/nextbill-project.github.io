@@ -12,6 +12,10 @@
 
 Die NextBill Server-Version wurde veröffentlicht! 🎉
 
+**14. April 2020** 
+
+Die NextBill Android-Version wurde veröffentlicht! 😎
+
 ---
 
 ## Features ##
