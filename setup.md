@@ -1,11 +1,31 @@
-## Installation
-### Einrichtung der Umgebung
+# Installation
+## Einrichtung der Umgebung
 Die Java-Architektur erlaubt es, NextBill auf fast jedem System auszuführen. 
 Hinsichtlich des Zugriffs lassen sich im wesentlichen zwei Szenarien unterscheiden:
 
 1. Sie installieren NextBill auf Ihrem NAS- oder Desktop-Computer (Windows, Mac oder Linux) zu Hause. In diesem Fall haben Sie nur im lokalen Netzwerk Zugriff. NextBill ist dann über eine IP in jedem Browser und in der Android-App erreichbar. Sobald Sie das Haus verlassen, schaltet die Android-App in den Offline-Modus, synchronisiert sich aber bei der Rückkehr.
 
 2. Sie installieren NextBill auf einem (Cloud-) Server. In diesem Fall können Sie von überall aus über einen Browser oder die Android-App zugreifen. Bedenken Sie aber, dass eine solche Konfiguration tendenziell höhere Sicherheitsrisiken birgt.
+
+## Variationen
+1. Installation per Docker (empfohlen)
+2. Manuelle Installation
+
+### 1. Installation per Docker
+
+Das Setup per Docker gestaltet sich sehr einfach. Sie können das aktuelle Image vom DockerHub-Repository durch beispielsweise folgende Eingabe in die Shell (bitte den Tag mit der aktuellen Version ersetzen) laden:
+
+`
+  docker pull nextbillproject/server:v1.2
+`
+
+Sämtliche Daten werden im Container unter "/nextbill" gespeichert und der Port ist 8010. Ein Container mit diesem Image kann beispielsweise folgendermaßen gestartet werden:
+
+`
+docker run -v /host/system/path:/nextbill -p 8020:8010 nextbillproject/server:v1.2
+`
+
+### 2. Manuelle Installation
 
 ### Download
 Bitte laden Sie die aktuelle Version der NextBill-Server Instanz von der Release-Seite auf GitHub herunter und kopieren Sie die Datei in einen Ordner Ihrer Wahl. Bitte geben Sie dem Ordner ausreichend Rechte, damit NextBill in diesem Ihre Datenbank-Datei verwalten kann.
