@@ -8,6 +8,10 @@
 
 ## News ##
 
+**1. Juni 2020** 
+
+Sowohl der Android App als auch der NextBill Server-Version wurde ein Update verpasst! Insbesondere wurden Bugs behoben.
+
 **14. April 2020** 
 
 Der NextBill Android Quellcode wurde veröffentlicht! Außerdem befindet sich die App im Freischaltungs-Prozess vom Google Play Store! 😎
