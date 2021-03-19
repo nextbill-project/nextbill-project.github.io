@@ -8,6 +8,10 @@
 
 ## News ##
 
+**19. März 2021** 
+
+Die NextBill Server-Version ist nun wieder kompatibel mit der aktuellen Scansio API! Und natürlich gab es einige Bugfixes.😉
+
 **1. Juni 2020** 
 
 Sowohl der Android App als auch der NextBill Server-Version wurde ein Update verpasst! Insbesondere wurden Bugs behoben.
